@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prudhvi Teja Munakala
 ===========================================================================================================================================
 
-Software Engineer III -  @ USt Global
+Software Engineer III -  @ UST Global
 
 DevOps & Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker | Linux | Shell | Ansible | Helm | Argo CD | Prometheus | Grafana | ELK | EKS | ECR |
 ------------------
